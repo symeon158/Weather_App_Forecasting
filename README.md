@@ -31,7 +31,7 @@ The **Weather Forecast App** is designed to help users easily access current and
 ---
 ## 🎥 Demo Video
 [![Watch the video](https://via.placeholder.com/800x450.png?text=Watch+Video)](https://1drv.ms/v/c/A9927BE78AA24F21/ESFPoorne5IggKnCBgAAAAABIcFzbIH8T6a4rzYd3fLsKw?e=k7lItm))
-> 👉 **Click the image above** to watch the demo video and see how the AI Assistant works.
+> 👉 **Click the image above** to watch the demo video and see how the Weather App works.
 
 ---
 ## Features
