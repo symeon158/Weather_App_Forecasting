@@ -6,6 +6,7 @@ An interactive weather forecast application built using Streamlit and OpenWeathe
 
 ## Table of Contents
 - [Overview](#overview)
+- [🎥 Demo Video](#-demo-video)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -27,11 +28,13 @@ The **Weather Forecast App** is designed to help users easily access current and
 - Visualization through line charts and maps.
 
 ---
+
 ## 🎥 Demo Video
-[![Watch the video](https://via.placeholder.com/800x450.png?text=Watch+Video)](https://1drv.ms/v/c/A9927BE78AA24F21/ESFPoorne5IggKnCBgAAAAABIcFzbIH8T6a4rzYd3fLsKw?e=k7lItm))
+[![Watch the video](https://via.placeholder.com/800x450.png?text=Watch+Video)](https://1drv.ms/v/c/A9927BE78AA24F21/ESFPoorne5IggKnCBgAAAAABIcFzbIH8T6a4rzYd3fLsKw?e=k7lItm)
 > 👉 **Click the image above** to watch the demo video and see how the Weather App works.
 
 ---
+
 ## Features
 
 - **Current Weather Information**: Get the real-time temperature, "feels like" temperature, and humidity for any city.
@@ -102,8 +105,3 @@ You can customize the alert threshold in the function `highlight_high_wind`.
 
 ## Project Structure
 
-```markdown
-- `app.py`                 : The main application code for the weather forecast app.
-- `requirements.txt`       : Python dependencies required to run the app.
-- `README.md`              : Project description and setup instructions.
-- `assets/`                : Folder for storing background images or any other media files.
