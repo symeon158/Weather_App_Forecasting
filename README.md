@@ -26,8 +26,6 @@ The **Weather Forecast App** is designed to help users easily access current and
 - Forecast for the next few days (every 3 hours).
 - Visualization through line charts and maps.
 
-![App Screenshot](https://your_image_url_here.png)
-
 ---
 ## 🎥 Demo Video
 [![Watch the video](https://via.placeholder.com/800x450.png?text=Watch+Video)](https://1drv.ms/v/c/A9927BE78AA24F21/ESFPoorne5IggKnCBgAAAAABIcFzbIH8T6a4rzYd3fLsKw?e=k7lItm))
