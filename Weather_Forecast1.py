@@ -8,7 +8,7 @@ from PIL import Image
 
 WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast"
-API_KEY = "863fff0d246f7e05e8db2e753f6d5740"
+API_KEY = "write your key"
 
 
 def get_lat_lon_from_city(city: str, api_key: str) -> (float, float):
